@@ -43,7 +43,7 @@ title = "About Me"
 ## Publications
 
 - **Tech Blog Posts**:
-  - ""決済基盤の Observability を向上するための Datadog Dashboard の進化" - Mercari Engineering Blog ([post](https://engineering.mercari.com/blog/entry/20231220-datadog-dashboard-for-observability/))
+  - "決済基盤の Observability を向上するための Datadog Dashboard の進化" - Mercari Engineering Blog ([post](https://engineering.mercari.com/blog/entry/20231220-datadog-dashboard-for-observability/))
   - "メルペイ決済基盤における Source Payment による決済手段の抽象化" - Mercari Engineering Blog ([post](https://engineering.mercari.com/blog/entry/20230613-source-payment/))
 
 ## Open Source Contributions
