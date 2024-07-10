@@ -25,7 +25,7 @@ title = "About Me"
   - Focused on artificial intelligence and machine learning
   - Conducted research on image processing under Professor Yukinobu Taniguchi
 
-- **Undergraduate**: Tokyo University of Science, B.S. in Computer Science
+- **Undergraduate School**: Tokyo University of Science, B.S. in Computer Science
   - Coursework in information engineering and statistics
   - Conducted research on image processing under Professor Yukinobu Taniguchi
 
