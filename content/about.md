@@ -52,6 +52,11 @@ title = "About Me"
   - Contributor to [github.com/cloudspannerecosystem/yo](https://github.com/cloudspannerecosystem/yo)
   - Contributor to [github.com/Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning)
 
+## Awards and Funding
+
+- Full Exemption from Japan Student Services Organization (JASSO) Scholarship
+- Best Presentation Award at Art Science Forum 2022
+
 ## Links
 
 - [GitHub](https://github.com/5n7)
