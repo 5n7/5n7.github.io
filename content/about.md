@@ -7,6 +7,7 @@ title = "About Me"
 - **Name**: Shunta Komatsu (he/him)
 - **Birthplace**: Kanagawa, Japan
 - **Residence**: Tokyo, Japan
+- **Languages**: Japanese (native), English (fluent)
 - **Interests**: Go, Vim, observability, fintech, payment systems, real estate, and stocks
 
 ## Professional Experience
