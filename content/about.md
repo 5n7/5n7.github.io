@@ -14,7 +14,12 @@ title = "About Me"
 
 - **Current Position**: Software Engineer at Mercari, Inc. (April 2022 - Present)
 
+  - Tech Lead since Jul 2024
   - Developing microservices for the payment platform used by the entire Mercari Group
+
+- **Side Position**: Software Enginner at ISOGE! (July 2024 - Present)
+
+  - Developing real estate price estimation service "ISOGE!"
 
 - **Previous Positions**:
   - See [LinkedIn](https://www.linkedin.com/in/shuntak/) for more details
